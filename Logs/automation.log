@@ -1,0 +1,406 @@
+18:09:38.935 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\sunku\AppData\Local\Temp\testng-eclipse--600891044\testng-customsuite.xml"
+18:09:39.146 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:09:39.148 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:09:39.150 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:09:39.150 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:09:39.150 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:09:39.151 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:09:39.151 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:09:39.151 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:09:39.157 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 4 ms.
+18:09:39.165 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 7 ms.
+18:09:39.167 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:09:39.167 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:09:39.169 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:09:39.169 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:09:39.171 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:09:39.171 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:09:39.183 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:09:39.183 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:09:39.184 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:09:39.184 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:09:39.188 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:09:39.188 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:09:39.189 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:09:39.189 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:09:39.189 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:09:39.190 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+18:09:39.191 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:09:39.191 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:09:39.191 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:09:39.191 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:09:39.196 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\sunku\AppData\Local\Temp\testng-eclipse--600891044\testng-customsuite.xml
+
+18:09:39.220 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 6 ms.
+18:09:42.661 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Starting TC001_AccountRegistrationTest
+18:09:45.869 [main] ERROR testCases.TC001_AccountRegistrationTest - Test failed..
+18:09:45.869 [main] DEBUG testCases.TC001_AccountRegistrationTest - Debug logs..
+18:09:46.244 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@42c2f48c: 72 ms
+18:09:46.258 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@659925f4: 14 ms
+18:09:46.272 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@7dd00705: 14 ms
+18:09:46.282 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@53692008: 10 ms
+18:09:46.291 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@27b71f50: 9 ms
+18:09:46.292 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@383790cf: 0 ms
+18:10:30.683 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\sunku\AppData\Local\Temp\testng-eclipse--867613977\testng-customsuite.xml"
+18:10:30.932 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+18:10:30.935 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+18:10:30.936 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:10:30.937 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:10:30.937 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:10:30.937 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:10:30.938 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:10:30.938 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:10:30.942 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 3 ms.
+18:10:30.953 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 10 ms.
+18:10:30.955 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:10:30.956 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:10:30.956 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:10:30.957 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:10:30.957 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:10:30.957 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:10:30.967 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:10:30.967 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:10:30.968 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:10:30.968 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:10:30.971 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:10:30.972 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:10:30.972 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:10:30.972 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:10:30.973 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:10:30.973 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:10:30.975 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:10:30.975 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:10:30.975 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:10:30.975 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:10:30.985 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\sunku\AppData\Local\Temp\testng-eclipse--867613977\testng-customsuite.xml
+
+18:10:31.006 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 1 ms.
+18:10:33.987 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Starting TC001_AccountRegistrationTest
+18:10:36.553 [main] ERROR testCases.TC001_AccountRegistrationTest - Test failed..
+18:10:36.553 [main] DEBUG testCases.TC001_AccountRegistrationTest - Debug logs..
+18:10:36.796 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@47f08b81: 71 ms
+18:10:36.813 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@76075d65: 17 ms
+18:10:36.823 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@4fe875be: 10 ms
+18:10:36.831 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@963176: 8 ms
+18:10:36.837 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@3eed0f5: 6 ms
+18:10:36.837 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@64030b91: 0 ms
+18:10:45.733 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\sunku\AppData\Local\Temp\testng-eclipse--1532075327\testng-customsuite.xml"
+18:10:45.935 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+18:10:45.937 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+18:10:45.939 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+18:10:45.939 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:10:45.939 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:10:45.939 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:10:45.940 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:10:45.940 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:10:45.944 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+18:10:45.953 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 9 ms.
+18:10:45.955 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:10:45.955 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:10:45.956 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:10:45.956 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:10:45.956 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:10:45.956 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:10:45.964 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:10:45.965 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:10:45.965 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:10:45.965 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:10:45.968 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:10:45.969 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:10:45.969 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:10:45.969 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:10:45.970 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+18:10:45.970 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:10:45.971 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:10:45.971 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:10:45.971 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:10:45.971 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:10:45.977 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\sunku\AppData\Local\Temp\testng-eclipse--1532075327\testng-customsuite.xml
+
+18:10:45.992 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 5 ms.
+18:10:50.641 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Starting TC001_AccountRegistrationTest
+18:10:54.160 [main] ERROR testCases.TC001_AccountRegistrationTest - Test failed..
+18:10:54.160 [main] DEBUG testCases.TC001_AccountRegistrationTest - Debug logs..
+18:10:54.485 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@42c2f48c: 69 ms
+18:10:54.501 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@659925f4: 16 ms
+18:10:54.515 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@7dd00705: 13 ms
+18:10:54.519 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@53692008: 4 ms
+18:10:54.528 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@27b71f50: 8 ms
+18:10:54.528 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@383790cf: 0 ms
+18:11:29.750 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\sunku\AppData\Local\Temp\testng-eclipse--1370637320\testng-customsuite.xml"
+18:11:29.935 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 6 ms.
+18:11:29.940 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+18:11:29.941 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:11:29.941 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:11:29.942 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:11:29.942 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:11:29.942 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:11:29.942 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:11:29.946 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 3 ms.
+18:11:29.959 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 12 ms.
+18:11:29.961 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:11:29.962 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:11:29.963 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:11:29.963 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:11:29.964 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:11:29.964 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:11:29.967 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:11:29.967 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:11:29.979 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:11:29.979 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:11:29.983 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:11:29.985 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:11:29.985 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:11:29.985 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:11:29.985 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:11:29.986 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+18:11:29.988 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:11:29.990 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:11:29.990 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+18:11:29.990 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+18:11:29.998 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\sunku\AppData\Local\Temp\testng-eclipse--1370637320\testng-customsuite.xml
+
+18:11:30.025 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 5 ms.
+18:11:32.585 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Starting TC001_AccountRegistrationTest
+18:11:35.647 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+18:11:36.011 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@41aaedaa: 69 ms
+18:11:36.012 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@1bcb79c2: 1 ms
+18:11:36.018 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@198ef2ce: 6 ms
+18:11:36.026 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@44f3fe83: 7 ms
+18:11:36.030 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@6de30571: 4 ms
+18:11:36.030 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@5ee34b1b: 0 ms
+12:56:15.699 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\sunku\eclipse-workspace\OpencartV121\master.xml
+
+13:07:00.816 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\sunku\eclipse-workspace\OpencartV121\master.xml
+
+13:16:24.089 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\sunku\eclipse-workspace\OpencartV121\master.xml
+
+16:59:12.559 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\sunku\eclipse-workspace\OpencartV121\grouping.xml
+
+17:01:12.069 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\sunku\eclipse-workspace\OpencartV121\grouping.xml
+
+17:04:00.282 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\sunku\eclipse-workspace\OpencartV121\grouping.xml
+
+17:04:37.903 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\sunku\eclipse-workspace\OpencartV121\master.xml
+
+17:04:41.854 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Starting TC001_AccountRegistrationTest
+17:04:44.676 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+17:04:47.023 [main] INFO  testCases.TC002_LoginTest - ******* Starting TC_002_LoginTest ******
+17:04:49.212 [main] INFO  testCases.TC002_LoginTest - ******* Finished TC_002_LoginTest ******
+17:05:59.252 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\sunku\eclipse-workspace\OpencartV121\grouping.xml
+
+17:07:12.723 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\sunku\eclipse-workspace\OpencartV121\grouping.xml
+
+17:07:48.003 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\sunku\eclipse-workspace\OpencartV121\grouping.xml
+
+17:12:50.475 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\sunku\eclipse-workspace\OpencartV121\grouping.xml
+
+17:13:54.156 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\sunku\eclipse-workspace\OpencartV121\grouping.xml
+
+17:18:02.744 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\sunku\eclipse-workspace\OpencartV121\grouping.xml
+
+17:20:31.116 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\sunku\eclipse-workspace\OpencartV121\grouping.xml
+
+17:20:32.185 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 147.0.7727.117 (resolved driver for Chrome 147)
+17:20:32.233 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\sunku\.cache\selenium\chromedriver\win64\147.0.7727.117\chromedriver.exe
+17:20:34.269 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Starting TC001_AccountRegistrationTest
+17:20:37.447 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+17:20:37.810 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 147.0.7727.117 (resolved driver for Chrome 147)
+17:20:37.821 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\sunku\.cache\selenium\chromedriver\win64\147.0.7727.117\chromedriver.exe
+17:20:39.444 [main] INFO  testCases.TC002_LoginTest - ******* Starting TC_002_LoginTest ******
+17:20:41.811 [main] INFO  testCases.TC002_LoginTest - ******* Finished TC_002_LoginTest ******
+18:09:01.071 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\sunku\eclipse-workspace\OpencartV121\grouping.xml
+
+18:09:01.493 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 147.0.7727.117 (resolved driver for Chrome 147)
+18:09:01.519 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\sunku\.cache\selenium\chromedriver\win64\147.0.7727.117\chromedriver.exe
+18:09:05.820 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Starting TC001_AccountRegistrationTest
+18:09:14.726 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 147.0.7727.117 (resolved driver for Chrome 147)
+18:09:14.741 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\sunku\.cache\selenium\chromedriver\win64\147.0.7727.117\chromedriver.exe
+18:09:16.247 [main] INFO  testCases.TC002_LoginTest - ******* Starting TC_002_LoginTest ******
+19:29:11.490 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\sunku\eclipse-workspace\OpencartV121\grouping.xml
+
+19:29:12.365 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 147.0.7727.117 (resolved driver for Chrome 147)
+19:29:12.376 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\sunku\.cache\selenium\chromedriver\win64\147.0.7727.117\chromedriver.exe
+19:29:14.055 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Starting TC001_AccountRegistrationTest
+19:29:16.070 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+19:29:16.198 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 147.0.7727.117 (resolved driver for Chrome 147)
+19:29:16.215 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\sunku\.cache\selenium\chromedriver\win64\147.0.7727.117\chromedriver.exe
+19:29:17.394 [main] INFO  testCases.TC002_LoginTest - ******* Starting TC_002_LoginTest ******
+19:29:19.347 [main] INFO  testCases.TC002_LoginTest - ******* Finished TC_002_LoginTest ******
+20:37:19.378 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\sunku\eclipse-workspace\OpencartV121\master.xml
+
+20:37:20.507 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 147.0.7727.117 (resolved driver for Chrome 147)
+20:37:20.519 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\sunku\.cache\selenium\chromedriver\win64\147.0.7727.117\chromedriver.exe
+20:37:24.079 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Starting TC001_AccountRegistrationTest
+20:37:31.255 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+20:37:31.472 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 147.0.7727.117 (resolved driver for Chrome 147)
+20:37:31.496 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\sunku\.cache\selenium\chromedriver\win64\147.0.7727.117\chromedriver.exe
+20:37:33.160 [main] INFO  testCases.TC002_LoginTest - ******* Starting TC_002_LoginTest ******
+20:39:20.381 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\sunku\eclipse-workspace\OpencartV121\test-output\testng-failed.xml
+
+20:39:20.801 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 147.0.7727.117 (resolved driver for Chrome 147)
+20:39:20.831 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\sunku\.cache\selenium\chromedriver\win64\147.0.7727.117\chromedriver.exe
+20:39:22.856 [main] INFO  testCases.TC002_LoginTest - ******* Starting TC_002_LoginTest ******
+20:39:27.465 [main] INFO  testCases.TC002_LoginTest - ******* Finished TC_002_LoginTest ******
+20:39:27.703 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 147.0.7727.117 (resolved driver for Chrome 147)
+20:39:27.733 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\sunku\.cache\selenium\chromedriver\win64\147.0.7727.117\chromedriver.exe
+20:39:29.508 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Starting TC001_AccountRegistrationTest
+20:39:32.472 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+18:57:14.030 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\sunku\eclipse-workspace\OpencartV121\master.xml
+
+18:57:15.348 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 147.0.7727.117 (resolved driver for Chrome 147)
+18:57:15.373 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\sunku\.cache\selenium\chromedriver\win64\147.0.7727.117\chromedriver.exe
+18:57:17.462 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Starting TC001_AccountRegistrationTest
+18:57:19.705 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+18:57:19.820 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 147.0.7727.117 (resolved driver for Chrome 147)
+18:57:19.844 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\sunku\.cache\selenium\chromedriver\win64\147.0.7727.117\chromedriver.exe
+18:57:21.499 [main] INFO  testCases.TC002_LoginTest - ******* Starting TC_002_LoginTest ******
+18:57:22.825 [main] INFO  testCases.TC002_LoginTest - ******* Finished TC_002_LoginTest ******
+18:58:10.753 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\sunku\eclipse-workspace\OpencartV121\master.xml
+
+18:58:11.259 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 147.0.7727.117 (resolved driver for Chrome 147)
+18:58:11.288 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\sunku\.cache\selenium\chromedriver\win64\147.0.7727.117\chromedriver.exe
+18:58:13.288 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Starting TC001_AccountRegistrationTest
+18:58:15.310 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+18:58:15.619 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 147.0.7727.117 (resolved driver for Chrome 147)
+18:58:15.642 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\sunku\.cache\selenium\chromedriver\win64\147.0.7727.117\chromedriver.exe
+18:58:17.161 [main] INFO  testCases.TC002_LoginTest - ******* Starting TC_002_LoginTest ******
+18:58:18.743 [main] INFO  testCases.TC002_LoginTest - ******* Finished TC_002_LoginTest ******
+18:58:46.682 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\sunku\eclipse-workspace\OpencartV121\master.xml
+
+18:58:47.158 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 147.0.7727.117 (resolved driver for Chrome 147)
+18:58:47.188 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\sunku\.cache\selenium\chromedriver\win64\147.0.7727.117\chromedriver.exe
+18:58:49.276 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Starting TC001_AccountRegistrationTest
+18:58:51.847 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+18:58:52.046 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 147.0.7727.117 (resolved driver for Chrome 147)
+18:58:52.073 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\sunku\.cache\selenium\chromedriver\win64\147.0.7727.117\chromedriver.exe
+18:58:53.910 [main] INFO  testCases.TC002_LoginTest - ******* Starting TC_002_LoginTest ******
+18:58:55.736 [main] INFO  testCases.TC002_LoginTest - ******* Finished TC_002_LoginTest ******
+18:59:53.659 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\sunku\eclipse-workspace\OpencartV121\master.xml
+
+18:59:54.228 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 147.0.7727.117 (resolved driver for Chrome 147)
+18:59:54.255 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\sunku\.cache\selenium\chromedriver\win64\147.0.7727.117\chromedriver.exe
+18:59:56.374 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Starting TC001_AccountRegistrationTest
+18:59:58.959 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+18:59:59.109 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 147.0.7727.117 (resolved driver for Chrome 147)
+18:59:59.132 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\sunku\.cache\selenium\chromedriver\win64\147.0.7727.117\chromedriver.exe
+19:00:00.554 [main] INFO  testCases.TC002_LoginTest - ******* Starting TC_002_LoginTest ******
+19:00:14.670 [main] INFO  testCases.TC002_LoginTest - ******* Finished TC_002_LoginTest ******
+19:06:09.723 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\sunku\eclipse-workspace\OpencartV121\master.xml
+
+19:06:10.147 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 147.0.7727.117 (resolved driver for Chrome 147)
+19:06:10.168 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\sunku\.cache\selenium\chromedriver\win64\147.0.7727.117\chromedriver.exe
+19:06:12.056 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Starting TC001_AccountRegistrationTest
+19:06:15.056 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+19:06:15.234 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 147.0.7727.117 (resolved driver for Chrome 147)
+19:06:15.256 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\sunku\.cache\selenium\chromedriver\win64\147.0.7727.117\chromedriver.exe
+19:06:16.584 [main] INFO  testCases.TC002_LoginTest - ******* Starting TC_002_LoginTest ******
+19:06:18.630 [main] INFO  testCases.TC002_LoginTest - ******* Finished TC_002_LoginTest ******
+19:07:19.522 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\sunku\eclipse-workspace\OpencartV121\master.xml
+
+19:07:19.958 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 147.0.7727.117 (resolved driver for Chrome 147)
+19:07:19.984 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\sunku\.cache\selenium\chromedriver\win64\147.0.7727.117\chromedriver.exe
+19:07:21.840 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Starting TC001_AccountRegistrationTest
+19:07:24.207 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+19:07:24.372 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 147.0.7727.117 (resolved driver for Chrome 147)
+19:07:24.395 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\sunku\.cache\selenium\chromedriver\win64\147.0.7727.117\chromedriver.exe
+19:07:25.728 [main] INFO  testCases.TC002_LoginTest - ******* Starting TC_002_LoginTest ******
+19:07:27.445 [main] INFO  testCases.TC002_LoginTest - ******* Finished TC_002_LoginTest ******
+19:08:05.318 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\sunku\eclipse-workspace\OpencartV121\master.xml
+
+19:08:05.771 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 147.0.7727.117 (resolved driver for Chrome 147)
+19:08:05.787 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\sunku\.cache\selenium\chromedriver\win64\147.0.7727.117\chromedriver.exe
+19:08:07.899 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Starting TC001_AccountRegistrationTest
+19:08:09.966 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+19:08:10.097 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 147.0.7727.117 (resolved driver for Chrome 147)
+19:08:10.124 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\sunku\.cache\selenium\chromedriver\win64\147.0.7727.117\chromedriver.exe
+19:08:11.455 [main] INFO  testCases.TC002_LoginTest - ******* Starting TC_002_LoginTest ******
+19:08:13.140 [main] INFO  testCases.TC002_LoginTest - ******* Finished TC_002_LoginTest ******
+19:12:55.261 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\sunku\eclipse-workspace\OpencartV121\master.xml
+
+19:12:55.761 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 147.0.7727.117 (resolved driver for Chrome 147)
+19:12:55.779 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\sunku\.cache\selenium\chromedriver\win64\147.0.7727.117\chromedriver.exe
+19:12:58.449 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Starting TC001_AccountRegistrationTest
+19:13:01.417 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+19:13:01.634 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 147.0.7727.117 (resolved driver for Chrome 147)
+19:13:01.657 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\sunku\.cache\selenium\chromedriver\win64\147.0.7727.117\chromedriver.exe
+19:13:02.995 [main] INFO  testCases.TC002_LoginTest - ******* Starting TC_002_LoginTest ******
+19:13:04.844 [main] INFO  testCases.TC002_LoginTest - ******* Finished TC_002_LoginTest ******
+20:39:40.354 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\sunku\eclipse-workspace\OpencartV121\grid-docker.xml
+
+20:39:42.411 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 148.0.7778.167 (resolved driver for Chrome 148)
+20:39:42.518 [main] INFO  io.github.bonigarcia.wdm.online.Downloader - Downloading https://storage.googleapis.com/chrome-for-testing-public/148.0.7778.167/win64/chromedriver-win64.zip
+20:39:44.238 [main] INFO  io.github.bonigarcia.wdm.online.Downloader - Extracting driver from compressed file chromedriver-win64.zip
+20:39:44.411 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\sunku\.cache\selenium\chromedriver\win64\148.0.7778.167\chromedriver.exe
+20:39:46.792 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Starting TC001_AccountRegistrationTest
+20:39:50.159 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+20:39:50.416 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 148.0.7778.167 (resolved driver for Chrome 148)
+20:39:50.447 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\sunku\.cache\selenium\chromedriver\win64\148.0.7778.167\chromedriver.exe
+20:39:51.901 [main] INFO  testCases.TC002_LoginTest - ******* Starting TC_002_LoginTest ******
+20:39:54.091 [main] INFO  testCases.TC002_LoginTest - ******* Finished TC_002_LoginTest ******
+20:54:28.025 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\sunku\eclipse-workspace\OpencartV121\grid-docker.xml
+
+20:54:28.703 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 148.0.7778.167 (resolved driver for Chrome 148)
+20:54:28.734 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\sunku\.cache\selenium\chromedriver\win64\148.0.7778.167\chromedriver.exe
+20:54:31.430 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Starting TC001_AccountRegistrationTest
+20:54:34.806 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+20:54:35.207 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 148.0.7778.167 (resolved driver for Chrome 148)
+20:54:35.241 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\sunku\.cache\selenium\chromedriver\win64\148.0.7778.167\chromedriver.exe
+20:54:37.027 [main] INFO  testCases.TC002_LoginTest - ******* Starting TC_002_LoginTest ******
+20:54:39.446 [main] INFO  testCases.TC002_LoginTest - ******* Finished TC_002_LoginTest ******
+17:27:40.134 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 148.0.7778.167 (resolved driver for Chrome 148)
+17:27:40.176 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\sunku\.cache\selenium\chromedriver\win64\148.0.7778.167\chromedriver.exe
+17:27:42.393 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Starting TC001_AccountRegistrationTest
+17:27:45.629 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+17:27:45.835 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 148.0.7778.167 (resolved driver for Chrome 148)
+17:27:45.857 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\sunku\.cache\selenium\chromedriver\win64\148.0.7778.167\chromedriver.exe
+17:27:47.331 [main] INFO  testCases.TC002_LoginTest - ******* Starting TC_002_LoginTest ******
+17:27:49.157 [main] INFO  testCases.TC002_LoginTest - ******* Finished TC_002_LoginTest ******
+17:59:23.634 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 148.0.7778.167 (resolved driver for Chrome 148)
+17:59:23.668 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\sunku\.cache\selenium\chromedriver\win64\148.0.7778.167\chromedriver.exe
+17:59:26.064 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Starting TC001_AccountRegistrationTest
+17:59:29.037 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+17:59:29.380 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 148.0.7778.167 (resolved driver for Chrome 148)
+17:59:29.434 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\sunku\.cache\selenium\chromedriver\win64\148.0.7778.167\chromedriver.exe
+17:59:32.059 [main] INFO  testCases.TC002_LoginTest - ******* Starting TC_002_LoginTest ******
+17:59:34.409 [main] INFO  testCases.TC002_LoginTest - ******* Finished TC_002_LoginTest ******
+18:11:53.980 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 148.0.7778.167 (resolved driver for Chrome 148)
+18:11:54.001 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\sunku\.cache\selenium\chromedriver\win64\148.0.7778.167\chromedriver.exe
+18:11:56.424 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Starting TC001_AccountRegistrationTest
+18:12:00.475 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+18:12:01.058 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 148.0.7778.167 (resolved driver for Chrome 148)
+18:12:01.082 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\sunku\.cache\selenium\chromedriver\win64\148.0.7778.167\chromedriver.exe
+18:12:03.478 [main] INFO  testCases.TC002_LoginTest - ******* Starting TC_002_LoginTest ******
+18:12:06.000 [main] INFO  testCases.TC002_LoginTest - ******* Finished TC_002_LoginTest ******
